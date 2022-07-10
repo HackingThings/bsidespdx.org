@@ -1,0 +1,80 @@
+### format is:
+#
+# - year: ####  (year becomes a title under "Past Years")
+#   categories:
+#      - title: "Nav Name"
+#        href: "/relative/path.html"
+#
+###
+
+- year: "2021"
+  categories:
+    - title: "Security BSides Portland 2021"
+      external: "https://bsidespdx.org/events/2021"
+
+- year: "2020"
+  categories:
+    - title: "Security BSides Portland 2020"
+      external: "https://bsidespdx.org/events/2020"
+
+
+- year: "2019"
+  categories:
+    - title: "Videos"
+      external: "https://youtube.com/playlist?list=PLqdWoaf0o9zfBsqpP6XZucJNke0X3fZQG"
+    - title: "Security BSides Portland 2019"
+      external: "https://bsidespdx.org/events/2019"
+
+- year: "2018"
+  categories:
+    - title: "Videos"
+      external: "https://youtube.com/playlist?list=PLqdWoaf0o9zfg1baNfbqAhr3Xr4WRbFtn"
+    - title: "Security BSides Portland 2018"
+      external: "https://bsidespdx.org/events/2018"
+
+
+- year: "2017"
+  categories:
+    - title: "Videos"
+      external: "https://youtube.com/playlist?list=PLqdWoaf0o9zdFw9zbAfla4_NUibvkI8Ym"
+    - title: "Security BSides Portland 2017"
+      external: "https://bsidespdx.org/events/2017"
+
+- "year": "2017"
+  categories:
+
+    - title: "Schedule"
+      external: "https://bsidessf2017.sched.com/"
+    - title: "Security BSides Wiki"
+      external: "http://www.securitybsides.com/w/page/111866644/BSidesSF2017"
+
+- year: "2016"
+  categories:
+    - title: "Security BSides Portland 2016"
+      external: "https://bsidespdx.org/events/2016"
+
+- year: "2015"
+  categories:
+    - title: "Security BSides Portland 2015"
+      external: "https://bsidespdx.org/events/2015"
+
+- year: "2014"
+  categories:
+    - title: "Security BSides Portland 2014"
+      external: "https://bsidespdx.org/events/2014"
+
+- year: "2013"
+  categories:
+    - title: "Security BSides Portland 2013"
+      external: "https://bsidespdx.org/events/2013"
+
+- year: "2012"
+  categories:
+    - title: "Security BSides Portland 2012"
+      external: "https://bsidespdx.org/events/2012"
+
+- year: "2011"
+  categories:
+    - title: "Security BSides Portland 2011"
+      external: "https://bsidespdx.org/events/2011"
+
