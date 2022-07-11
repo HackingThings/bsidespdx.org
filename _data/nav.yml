@@ -28,13 +28,10 @@
 
 - title: "Venue"
   href: "/venue"
-
 - title: "Sponsors"
   href: "/sponsors"
-
 - title: "Schedule"
   href: "/schedule"
-
 - title: "Tickets"
-  external: "/tickets"
+  href: "/tickets"
 
